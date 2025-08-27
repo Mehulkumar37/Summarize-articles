@@ -24,7 +24,7 @@ To install and run this app locally, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shuvra-matrix/summarize-articles--MERN-.git
+   git clone https://github.com/Mehulkumar37/Summarize-articles.git
 
    ```
 
@@ -66,32 +66,7 @@ This will launch the server and make it accessible at [http://localhost:3030](ht
    npm start
    ```
 
-6. You can use the following APIs to integrate YouTube and Twitter video download functionality into your backend:
-
-   Article Data Extraction and Summarization API: https://rapidapi.com/artemsementsov/api/article-data-extraction-and-summarization
-
-This will start the frontend of the app and make it accessible at [http://localhost:3000](http://localhost:3000).
-
 ## Disclaimer
 
 Synop is a tool designed to aid in summarizing articles and does not replace critical thinking or research skills. While we strive for accuracy, the generated summaries may not always capture the full context of an article. Users are encouraged to use Synop summaries as a starting point and verify information when needed.
 
-## Contributing
-
-We welcome contributions from the community to help improve Vidown. Feel free to submit bug reports, feature requests, or pull requests.
-
-## Issue Report
-
-If you encounter any issues while using Synop or have suggestions for improvements, we encourage you to report them. To report an issue, please follow these steps:
-
-1. Visit our [Issue Tracker](https://github.com/shuvra-matrix/summarize-articles--MERN-/issues) on GitHub.
-
-2. Click the "New Issue" button.
-
-3. Fill out the issue form with a clear and detailed description of the problem or suggestion you have.
-
-4. Click the "Submit New Issue" button to create the issue.
-
-## Get Started
-
-Visit [Synop](https://synops.netlify.app/) and start summarizing articles effortlessly. Say goodbye to lengthy reading and hello to efficient, accurate, and user-friendly article summaries with Synop!
