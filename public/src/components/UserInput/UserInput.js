@@ -35,7 +35,7 @@ const UserInput = () => {
           urls: userInput,
         }),
       };
-      const url = "http://localhost:3030/api/v1/";
+      const url = "https://summarize-articles-server.onrender.com/api/v1/";
       try {
         const response = await fetch(url, options);
         const result = await response.json();
