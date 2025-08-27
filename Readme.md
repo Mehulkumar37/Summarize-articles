@@ -65,6 +65,8 @@ This will launch the server and make it accessible at [http://localhost:3030](ht
    ```bash
    npm start
    ```
+   
+This will start the frontend of the app and make it accessible at [http://localhost:3000](http://localhost:3000).
 
 ## Disclaimer
 
