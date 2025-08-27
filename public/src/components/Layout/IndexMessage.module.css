@@ -1,0 +1,62 @@
+.index-message-main {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.index-message-main h1 {
+  font-size: 3rem;
+}
+
+.index-message-main h1:first-child {
+  color: rgb(255, 255, 255);
+}
+.index-message-main span {
+  background: -webkit-linear-gradient(#ff512f, #dd2476);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: block;
+}
+
+.index-message-main p {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: rgb(160, 158, 161);
+}
+
+@media (max-width: 1110px) {
+  .index-message-main {
+    width: 60%;
+  }
+  .index-message-main h1 {
+    font-size: 2.8rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .index-message-main {
+    width: 80%;
+  }
+  .index-message-main h1 {
+    font-size: 2.2rem;
+  }
+}
+
+@media (max-width: 468px) {
+  .index-message-main {
+    margin: 0.5rem auto;
+    width: 90%;
+  }
+  .index-message-main h1 {
+    font-size: 2rem;
+  }
+  .index-message-main p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 415px) {
+  .index-message-main h1 {
+    font-size: 1.8rem;
+  }
+}

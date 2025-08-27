@@ -1,0 +1,26 @@
+.error {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #231539;
+  margin-top: 1.5rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.error p {
+  background: -webkit-linear-gradient(#ff416c, #ff4b2b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 468px) {
+  .error {
+    font-size: 1rem;
+    color: rgb(192, 192, 192);
+  }
+}
