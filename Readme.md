@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[https://summarize-articles-frontend.onrender.com/]([https://synops.netlify.app](https://summarize-articles-frontend.onrender.com/)
+Frontend: [https://summarize-articles-frontend.onrender.com/](https://summarize-articles-frontend.onrender.com/)  
 
 ## Features
 
